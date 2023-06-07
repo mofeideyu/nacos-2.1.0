@@ -1,0 +1,14 @@
+F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\spi\client\ClientAuthService.java
+F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\api\Resource.java
+F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\api\RequestResource.java
+F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\spi\server\AuthPluginManager.java
+F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\spi\server\AuthPluginService.java
+F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\spi\client\ClientAuthPluginManager.java
+F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\constant\Constants.java
+F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\constant\ActionTypes.java
+F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\api\LoginIdentityContext.java
+F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\api\Permission.java
+F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\api\IdentityContext.java
+F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\constant\SignType.java
+F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\spi\client\AbstractClientAuthService.java
+F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\exception\AccessException.java

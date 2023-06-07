@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\api\IdentityContext.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\api\LoginIdentityContext.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\api\Permission.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\api\RequestResource.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\api\Resource.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\constant\ActionTypes.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\constant\Constants.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\constant\SignType.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\exception\AccessException.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\spi\client\AbstractClientAuthService.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\spi\client\ClientAuthPluginManager.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\spi\client\ClientAuthService.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\spi\server\AuthPluginManager.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\main\java\com\alibaba\nacos\plugin\auth\spi\server\AuthPluginService.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\test\java\com\alibaba\nacos\plugin\auth\spi\client\ClientAuthPluginManagerTest.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\test\java\com\alibaba\nacos\plugin\auth\spi\mock\MockClientAuthService.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\auth\src\test\java\com\alibaba\nacos\plugin\auth\spi\server\AuthPluginManagerTest.java">
+</file>
+</checkstyle>

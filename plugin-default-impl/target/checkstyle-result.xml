@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\configuration\ConditionOnLdapAuth.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\constant\AuthConstants.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\constant\AuthSystemTypes.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\controller\PermissionController.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\controller\RoleController.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\controller\UserController.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\CustomAuthenticationProvider.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\filter\JwtAuthenticationTokenFilter.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\JwtAuthenticationEntryPoint.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\JwtTokenManager.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\LdapAuthConfig.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\LdapAuthenticationProvider.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\LdapAuthPluginService.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\NacosAuthConfig.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\NacosAuthManager.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\NacosAuthPluginService.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\persistence\AuthRowMapperManager.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\persistence\EmbeddedPermissionPersistServiceImpl.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\persistence\EmbeddedRolePersistServiceImpl.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\persistence\EmbeddedUserPersistServiceImpl.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\persistence\ExternalPermissionPersistServiceImpl.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\persistence\ExternalRolePersistServiceImpl.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\persistence\ExternalUserPersistServiceImpl.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\persistence\PermissionInfo.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\persistence\PermissionPersistService.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\persistence\RoleInfo.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\persistence\RolePersistService.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\persistence\User.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\persistence\UserPersistService.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\roles\NacosRoleServiceImpl.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\users\NacosUser.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\users\NacosUserDetails.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\users\NacosUserDetailsServiceImpl.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\users\User.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\main\java\com\alibaba\nacos\plugin\auth\impl\utils\PasswordEncoderUtil.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\test\java\com\alibaba\nacos\plugin\auth\impl\controller\UserControllerTest.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\test\java\com\alibaba\nacos\plugin\auth\impl\JwtTokenManagerTest.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\test\java\com\alibaba\nacos\plugin\auth\impl\persistence\EmbeddedPermissionPersistServiceImplTest.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\test\java\com\alibaba\nacos\plugin\auth\impl\persistence\EmbeddedRolePersistServiceImplTest.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\test\java\com\alibaba\nacos\plugin\auth\impl\persistence\EmbeddedUserPersistServiceImplTest.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\test\java\com\alibaba\nacos\plugin\auth\impl\persistence\ExternalPermissionPersistServiceImplTest.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\test\java\com\alibaba\nacos\plugin\auth\impl\persistence\ExternalRolePersistServiceImplTest.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin-default-impl\src\test\java\com\alibaba\nacos\plugin\auth\impl\persistence\ExternalUserPersistServiceImplTest.java">
+</file>
+</checkstyle>

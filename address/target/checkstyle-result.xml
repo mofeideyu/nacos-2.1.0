@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="F:\javaProject\nacos-2.1.0\address\src\main\java\com\alibaba\nacos\address\AddressServer.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\address\src\main\java\com\alibaba\nacos\address\component\AddressServerGeneratorManager.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\address\src\main\java\com\alibaba\nacos\address\component\AddressServerManager.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\address\src\main\java\com\alibaba\nacos\address\constant\AddressServerConstants.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\address\src\main\java\com\alibaba\nacos\address\controller\AddressServerClusterController.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\address\src\main\java\com\alibaba\nacos\address\controller\ServerListController.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\address\src\main\java\com\alibaba\nacos\address\misc\Loggers.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\address\src\test\java\com\alibaba\nacos\address\AddressServerControllerTests.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\address\src\test\java\com\alibaba\nacos\address\component\AddressServerManagerTests.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\address\src\test\java\com\alibaba\nacos\address\SimpleHttpTestUtils.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\address\src\main\resources\application.properties">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\address\src\main\resources\META-INF\nacos-default.properties">
+</file>
+</checkstyle>

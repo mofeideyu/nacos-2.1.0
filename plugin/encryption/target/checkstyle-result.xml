@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="F:\javaProject\nacos-2.1.0\plugin\encryption\src\main\java\com\alibaba\nacos\plugin\encryption\EncryptionPluginManager.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\encryption\src\main\java\com\alibaba\nacos\plugin\encryption\handler\EncryptionHandler.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\encryption\src\main\java\com\alibaba\nacos\plugin\encryption\spi\EncryptionPluginService.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\encryption\src\test\java\com\alibaba\nacos\plugin\encryption\EncryptionPluginManagerTest.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\plugin\encryption\src\test\java\com\alibaba\nacos\plugin\encryption\handler\EncryptionHandlerTest.java">
+</file>
+</checkstyle>

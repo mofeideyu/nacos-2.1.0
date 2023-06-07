@@ -1,0 +1,3 @@
+com\alibaba\nacos\plugin\encryption\EncryptionPluginManager.class
+com\alibaba\nacos\plugin\encryption\spi\EncryptionPluginService.class
+com\alibaba\nacos\plugin\encryption\handler\EncryptionHandler.class
