@@ -1,3 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.29">
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\ap\APProtocol.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\ap\RequestProcessor4AP.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\CommandOperations.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\Config.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\ConsistencyProtocol.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\cp\CPProtocol.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\cp\MetadataKey.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\cp\RequestProcessor4CP.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\DataOperation.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\exception\ConsistencyException.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\exception\NoSuchLogProcessorException.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\IdGenerator.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\ProtocolMetaData.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\ProtoMessageUtil.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\RequestProcessor.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\serialize\HessianSerializer.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\serialize\JacksonSerializer.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\SerializeFactory.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\Serializer.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\snapshot\LocalFileMeta.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\snapshot\Reader.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\snapshot\SnapshotOperation.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\main\java\com\alibaba\nacos\consistency\snapshot\Writer.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\test\java\com\alibaba\nacos\consistency\ProtocolMetaDataTest.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\test\java\com\alibaba\nacos\consistency\ProtoMessageUtilTest.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\test\java\com\alibaba\nacos\consistency\serialize\JacksonSerializerTest.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\test\java\com\alibaba\nacos\consistency\SerializeFactoryTest.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\test\java\com\alibaba\nacos\consistency\snapshot\LocalFileMetaTest.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\test\java\com\alibaba\nacos\consistency\snapshot\ReaderTest.java">
+</file>
+<file name="F:\javaProject\nacos-2.1.0\consistency\src\test\java\com\alibaba\nacos\consistency\snapshot\WriterTest.java">
+</file>
 </checkstyle>
